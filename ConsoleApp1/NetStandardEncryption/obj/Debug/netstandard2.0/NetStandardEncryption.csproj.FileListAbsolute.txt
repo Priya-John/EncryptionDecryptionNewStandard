@@ -1,0 +1,9 @@
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\bin\Debug\netstandard2.0\NetStandardEncryption.deps.json
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\bin\Debug\netstandard2.0\NetStandardEncryption.dll
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\obj\Debug\netstandard2.0\NetStandardEncryption.csprojResolveAssemblyReference.cache
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\obj\Debug\netstandard2.0\NetStandardEncryption.csproj.CoreCompileInputs.cache
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\obj\Debug\netstandard2.0\NetStandardEncryption.AssemblyInfoInputs.cache
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\obj\Debug\netstandard2.0\NetStandardEncryption.AssemblyInfo.cs
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\bin\Debug\netstandard2.0\NetStandardEncryption.pdb
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\obj\Debug\netstandard2.0\NetStandardEncryption.dll
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\NetStandardEncryption\obj\Debug\netstandard2.0\NetStandardEncryption.pdb

@@ -1,0 +1,5 @@
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\FrameworkDeEncryption\bin\Debug\FrameworkDeEncryption.dll
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\FrameworkDeEncryption\bin\Debug\FrameworkDeEncryption.pdb
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\FrameworkDeEncryption\obj\Debug\FrameworkDeEncryption.csproj.CoreCompileInputs.cache
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\FrameworkDeEncryption\obj\Debug\FrameworkDeEncryption.dll
+c:\users\bindupriyadarshini.p\source\repos\ConsoleApp1\FrameworkDeEncryption\obj\Debug\FrameworkDeEncryption.pdb
